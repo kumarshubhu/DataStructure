@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BA2F29FA-9984-468D-B421-96DB310DF773}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode/Deletion.cs">
+    <Files>
+      <File FileName="LeetCode/Deletion.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeetCode" expanded="True">
+            <Node name="LeetCode" expanded="True">
+              <Node name="Deletion.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LeetCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
